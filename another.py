@@ -12,3 +12,7 @@ def func3():
 
 def func4():
     return 123
+
+
+def func5():
+    return 12345
